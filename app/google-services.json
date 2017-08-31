@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5627934578",
+    "firebase_url": "https://blebus-97371.firebaseio.com",
+    "project_id": "blebus-97371",
+    "storage_bucket": "blebus-97371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5627934578:android:54f3ef86ea38e031",
+        "android_client_info": {
+          "package_name": "com.facebook.blebus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5627934578-h11589qeta2jj7s3g78lqbgtqfonhohf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facebook.blebus",
+            "certificate_hash": "80291CF30E74D6259286A40F6F4ECEB88CB7EF0C"
+          }
+        },
+        {
+          "client_id": "5627934578-0nbrmev6fmaipjk5m0ugmp31c3m010jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Zmk12DhaLT8IN4hjubov8dOLqic2tbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5627934578-0nbrmev6fmaipjk5m0ugmp31c3m010jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
